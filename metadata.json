@@ -1,0 +1,6 @@
+{
+  "name": "NeuroASIC: Low-Power Neural Chip Designer & Simulator",
+  "description": "Interactive ASIC architecture designer and hardware simulator for ultra-low-power handwritten digit recognition with on-chip image buffers, integrated pretrained weight ROM, and real-time LED display interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
